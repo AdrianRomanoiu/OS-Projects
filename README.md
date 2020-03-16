@@ -9,4 +9,4 @@ from them.
 The second project was all about multi-process and multi-thread synchronization (using mutexes, semaphores or conditional variables) 
 in different and various situations.
 
-The third project familiarized me with inter-process communication mecannisms such as pipes, shared memory and memory-file mapping.
+The third project familiarized me with inter-process communication mechanisms such as pipes, shared memory and memory-file mapping.
